@@ -1,0 +1,11 @@
+# Website Page
+
+[Course Link](https://rafalab.dfci.harvard.edu/pages/harvardx.html)
+
+
+```{r}
+x <- 1:10
+y <- rnorm(10)
+plot(x,y)
+fit <- lm(y ~ x)
+```
