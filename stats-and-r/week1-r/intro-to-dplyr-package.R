@@ -1,6 +1,6 @@
 install.packages("dplyr")
 
-data <- read.csv('femaleMiceWeights.csv')
+data <- read.csv("datasets/femaleMiceWeights.csv")
 
 View(data)
 
